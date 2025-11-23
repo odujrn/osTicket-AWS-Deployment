@@ -98,9 +98,9 @@ osTicket-AWS-Deployment/
 ---
 
 ## 🧑‍💻 Author
-**[Your Name](https://www.linkedin.com/in/your-link/)**  
+**[Oduamadi Ndubuisi](https://www.linkedin.com/in/your-link/)**  
 Cloud & Systems Administrator | DevOps Enthusiast  
-📧 youremail@example.com  
+📧 ndu_euro@outlook.com  
 
 ---
 
